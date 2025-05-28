@@ -21,7 +21,7 @@ XRentals is a web-based platform for listing and renting rooms. Users can regist
 
 1. **Clone or Download the Project**
    ```
-   git clone https://github.com/Ankitandaliya/XRentals.git
+   git clone https://github.com/yourusername/XRentals.git
    ```
 
 2. **Import Database**
